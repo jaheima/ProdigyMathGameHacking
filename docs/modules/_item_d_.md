@@ -1,6 +1,6 @@
 [ProdigyMathGameHackingTypings](../README.md) › [Globals](../globals.md) › ["item.d"](_item_d_.md)
 
-# Module: "item.d"
+# Module: "crystal_staff"
 
 ## Index
 
